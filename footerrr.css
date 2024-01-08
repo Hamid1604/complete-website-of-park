@@ -1,0 +1,145 @@
+footer {
+	background: #000000;
+	padding:  35px 20px 0 0;
+  margin-top: 100px;
+}
+.kk p{
+font-size: 15px;
+margin-top: -30px;
+}
+.single-box p {
+	color: #fff;
+	
+}
+.single-box h3 {
+	font-size: 16px;
+	font-weight: 700;
+	color: #fff;
+}
+.single-box .card-area i {
+	color: #ffffff;
+	font-size: 20px;
+	margin-right: 20px;
+}
+.single-box ul {
+	list-style: none;
+	padding: 0;
+  margin-top: 50px;
+}
+.paa li a{
+  padding-left: 80px;
+}
+.paaa li i a{
+  padding-left: 80px;
+}
+.single-box ul li a {
+	text-decoration: none;
+	color: rgb(252, 249, 249);
+	line-height: 2.5;
+	font-weight: 100;
+  font-size: 15px;
+ 
+}
+.single-box ul li a:hover{
+	color: #FFCC00;
+}
+.u{
+  padding-left: 80px;
+}
+.single-box h2 {
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	font-weight: 700;
+}
+.fa-solid{
+	color: #FFCC00;
+}
+.fa-brands{
+	height: 40px;
+	width: 30px;	
+}
+#footer_bottom{
+  padding-top: 5vh;
+  text-align: center;
+  height: 15vh;
+  background-color: #0E131F;
+  color: gray;
+}
+
+
+
+
+
+@media screen and (max-width : 767px){
+.fade-carousel .carousel-inner .item .hero{
+  width:100%;
+  text-align:center;
+  }
+.hero h1{
+font-size:40px;
+  }
+.hero h3{
+font-size:18px;
+padding:10px;
+  }
+.center_home .carousel-indicators{
+bottom:0;  
+  }
+
+.quantity_inner .numscroller{
+ font-size:60px; 
+  }
+.quantity_main{
+ padding-top:60px;
+ padding-bottom:60px; 
+  }
+
+  .single-box {
+		margin-bottom: 50px;
+	}
+}
+
+@media (min-width:768px) and (max-width:991px) {
+.hero{
+  width:100%;
+  padding:10px;
+  }
+.donation_1 p{
+  font-size:16px;
+  }
+.quantity_inner .numscroller{
+  font-size:60px;
+  }
+.quantity_inner h4{
+ line-height:1.4em;
+ font-size:16px;
+ }
+.partners_1 .news_home_1_inner h3{
+font-size:18px; 
+ }
+ .single-box {
+  margin-bottom: 50px;
+}
+ }
+ @media (min-width:992px) and (max-width:1200px) {
+.quantity_inner .numscroller{
+  font-size:60px;
+  }
+.quantity_inner h4{
+ line-height:1.4em;
+ font-size:16px;
+ }
+.partners_1 .news_home_1_inner h3{
+font-size:18px; 
+ }
+ }
+@media (min-width:1201px) and (max-width:1315px) {
+
+ }
+
+
+
+ .i {
+    color: #FFCC00;
+  }
+  
